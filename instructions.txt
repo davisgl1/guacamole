@@ -1,4 +1,8 @@
 mash the avocados
+<<<<<<< HEAD
 chop onions
 add lime juice
+=======
+add in pepper
+>>>>>>> c765e22cafe2e30cb6da2ec27a8b45c1bf007e6e
 stir in everything else
